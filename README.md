@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**br3ze/br3ze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🕶️ b3rze
 
-Here are some ideas to get you started:
+> quietly exploring vulnerabilities, one flag at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my corner of the internet. I’m currently on a focused journey into cybersecurity and ethical hacking, with the goal of becoming a penetration tester.
+
+- 🧠 Learning via [TryHackMe – Cyber Security 101 Path](https://tryhackme.com/)
+- 🔎 Interested in reverse engineering, recon, and stealthy persistence
+- 🎯 Currently solving CTFs, documenting my process, and building my skillset
+
+I don’t always say much, but the code and flags will speak for themselves.
+
+---
+
+> *"In silence, I trace the vulnerabilities others overlook."* — `b3rze`
+
