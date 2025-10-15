@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 🕶️ b3rze
+# 🕶️ CaVsH
 
 > quietly exploring vulnerabilities, one flag at a time.
 
@@ -13,6 +13,3 @@ Welcome to my corner of the internet. I’m currently on a focused journey into 
 I don’t always say much, but the code and flags will speak for themselves.
 
 ---
-
-> *"In silence, I trace the vulnerabilities others overlook."* — `b3rze`
-
